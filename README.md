@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sou-19
+- 👋 Hi, I’m @Sowjanya
 - 👀 I’m interested in ...coding,editing and designing
-- 🌱 I’m currently learning ...BCA
+- 🌱 I’m currently learning ...MCA in NMAMIT
 - 💞️ I’m looking to collaborate on ...learning
 - 📫 How to reach me ...shettysoujanya9@gmail.com
 
