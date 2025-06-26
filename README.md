@@ -7,8 +7,11 @@
 
 ---
 
-🌟 I'm an aspiring developer with a passion for exploring technologies and building cool projects.  
-🎯 Currently diving deep into Flutter, Firebase, Java, and AI-powered tools.
+- 🔭 I’m currently working on **Flutter + Firebase Projects**
+- 🌱 I’m currently learning **Backend development & AI Tools**
+- 💬 Ask me about **Flutter, Firebase, Java, Spring Boot**
+- 📫 How to reach me: **shettysoujanya9@gmail.com **
+
 
 ---
 
