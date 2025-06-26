@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @Sowjanya
-- 👀 I’m interested in ...coding,editing and designing
-- 🌱 I’m currently learning ...MCA in NMAMIT
-- 💞️ I’m looking to collaborate on ...learning
-- 📫 How to reach me ...shettysoujanya9@gmail.com
+<h1 align="center">Hi 👋, I'm Soujanya Shetty</h1>
+<h3 align="center">MCA Student at NMAMIT | BCA Graduate from Bhandarkars | Tech Explorer 🚀</h3>
 
-<!---
-sou-19/sou-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif"/>
+</p>
+
+---
+
+🌟 I'm an aspiring developer with a passion for exploring technologies and building cool projects.  
+🎯 Currently diving deep into Flutter, Firebase, Java, and AI-powered tools.
+
+---
+
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/soujanya-shetty)
+
+---
+
+## 🧰 My Tech Stack
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&style=for-the-badge)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&style=for-the-badge)
+
+------
+
+## 💡 Fun Quote
+
+> *"I'll solve problems using the power I've been given. This is the new world of exploring and learning."*
+
+---
+
+
